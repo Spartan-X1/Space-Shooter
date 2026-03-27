@@ -85,6 +85,7 @@ code/
 
 ![image](https://github.com/user-attachments/assets/049cabb0-28f6-49ee-ac95-240c352115b3)
 Playing the game (Wave 3) :
+
 ![gif](https://github.com/Spartan-X1/Space-Shooter/blob/main/images/Space_Shooter.gif)
 
 
