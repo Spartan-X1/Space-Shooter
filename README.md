@@ -81,9 +81,10 @@ code/
 | `Enter` | Restart (Game Over screen) |
 | `F1` | Debug: Show enemy information |
 
-## 🎨 Screenshots
+## 🎨 Screenshots & GIF
 
 ![image](https://github.com/user-attachments/assets/049cabb0-28f6-49ee-ac95-240c352115b3)
+![gif](images/Space_Shooter.gif)
 
 
 ## 🏗️ Architecture Overview
